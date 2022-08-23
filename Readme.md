@@ -2,7 +2,10 @@
 
  I created this web page using Html and Css. this is the third assignment given to me, in this project positioning of the image is challenge for me and i compteted this challenge and improving little by little.
 
-![law Image](./live-class-project-03/project-3.png)
+# live link
+[Law-Site](https://precious-dolphin-577ca5.netlify.app/)
+
+![law Image](./project-3.png)
  # Skills.
  - HTML
  - Css
